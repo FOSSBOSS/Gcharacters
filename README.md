@@ -35,3 +35,4 @@ Jenny Everywhere: Jenny Everywhere is described both as existing in every realit
 
 
 
+Any resembleance to characters or personages, living or dead is strictly coninscidential.

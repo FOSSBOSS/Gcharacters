@@ -24,9 +24,11 @@ Assets: pictures, videos, code, or other materials that help define a specific c
 
 License: Pick an open licence.
 
-What this repo is not:
-This is intended to provide detailed descriptions, for new, open license characters, but not exclusively hold stories beyond 
-a character back story, or stories beyond having a character description. In the future, a derivative story, archs, etc, may have a seprate repo.
+
+This is intended to provide detailed descriptions, for new, open license characters.
+
+What this repo is not: exclusively a storage place for stories beyond 
+a character back story, or stories beyond having a character description. 
 
 Exmples of characters that meet the guidelines afforementioned:
 Tux, is a penguin mascot for the linux kernel. 
